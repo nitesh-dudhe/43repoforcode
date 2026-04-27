@@ -4,6 +4,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
 	    System.out.println("This is the extra line of code");
         System.out.println("This is Nitesh.");
-		System.out.println("For the Jenkins pipeline")
+		System.out.println("For the Jenkins pipeline");
     }
 }
